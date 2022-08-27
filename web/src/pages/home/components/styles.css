@@ -1,0 +1,11 @@
+.actions {
+    display: flex;
+    justify-content: right;
+    padding: 20px 24px;
+}
+
+.card-list {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 24px;
+}
